@@ -12,3 +12,4 @@
 /home/dimas/Projetos/ExemploPoo/obj/Debug/net8.0/ExemploPoo.pdb
 /home/dimas/Projetos/ExemploPoo/obj/Debug/net8.0/ExemploPoo.genruntimeconfig.cache
 /home/dimas/Projetos/ExemploPoo/obj/Debug/net8.0/ref/ExemploPoo.dll
+/home/dimas/Projetos/ExemploPoo/obj/Debug/net8.0/ExemploPoo.sourcelink.json
