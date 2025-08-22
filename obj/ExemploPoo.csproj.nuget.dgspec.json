@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/dimas/Projetos/ExemploPoo/ExemploPoo.csproj": {}
+    "C:\\Users\\POSITIVO\\Documents\\GitHub\\ExemploPoo\\ExemploPoo.csproj": {}
   },
   "projects": {
-    "/home/dimas/Projetos/ExemploPoo/ExemploPoo.csproj": {
+    "C:\\Users\\POSITIVO\\Documents\\GitHub\\ExemploPoo\\ExemploPoo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/dimas/Projetos/ExemploPoo/ExemploPoo.csproj",
+        "projectUniqueName": "C:\\Users\\POSITIVO\\Documents\\GitHub\\ExemploPoo\\ExemploPoo.csproj",
         "projectName": "ExemploPoo",
-        "projectPath": "/home/dimas/Projetos/ExemploPoo/ExemploPoo.csproj",
-        "packagesPath": "/home/dimas/.nuget/packages/",
-        "outputPath": "/home/dimas/Projetos/ExemploPoo/obj/",
+        "projectPath": "C:\\Users\\POSITIVO\\Documents\\GitHub\\ExemploPoo\\ExemploPoo.csproj",
+        "packagesPath": "C:\\Users\\POSITIVO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\POSITIVO\\Documents\\GitHub\\ExemploPoo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/dimas/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\POSITIVO\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -32,6 +32,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -53,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.119/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.413/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
