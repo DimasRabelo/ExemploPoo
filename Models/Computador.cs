@@ -5,11 +5,11 @@ using System.Threading.Tasks;
 
 namespace ExemploPoo.Models
 {
-    public class Diretor : Professor
+    public class Computador 
     {
-         public override void Apresentar()
+        public override string ToString()
         {
-            Console.WriteLine("Diretor");
+            return "Método ToString() sobrescrito na classe Computador";
         }
     }
 }

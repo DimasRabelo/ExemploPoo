@@ -1,10 +1,8 @@
 ﻿using ExemploPoo.Models;
+using ExemploPoo.Interfaces;
 
-Pessoa p1 = new Pessoa("Dimas");
-Aluno a1 = new Aluno("João");
-a1.Apresentar();
-
-
+ICalculadora calc = new Calculadora();
+Console.WriteLine(calc.Multiplicar(10, 20));
 
 
 
@@ -28,6 +26,16 @@ a1.Apresentar();
 
 
 
+
+
+
+
+//Computador c = new Computador();
+//Console.WriteLine(c.ToString());
+
+// Pessoa p1 = new Pessoa("Dimas");
+// Aluno a1 = new Aluno("João");
+// a1.Apresentar();
 
 // Corrente c = new Corrente();
 // c.Creditar(500);
